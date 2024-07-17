@@ -98,5 +98,5 @@ inventory-management-system/
     ```bash
  POST http://localhost:3000/products -H "Content-Type: application/json" -H "Authorization: Bearer <your_jwt_token>" -d '{"name": "Product A", "price": 100, "quantity": 50}'
     ```
-
+Website is Live via Render => https://inventory-management-system-5we0.onrender.com
 
